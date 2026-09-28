@@ -2001,6 +2001,24 @@ input, select, textarea {
 						background: #ea3723;
 					}
 
+				/* Added my own */
+
+				ul.social li a.fa-github {
+					background: #89929b;
+				}
+
+					ul.social li a.fa-github:hover {
+						background: #c6cdd5;
+					}
+
+				ul.social li a.fa-youtube {
+					background: #e31010;
+				}
+
+					ul.social li a.fa-youtube:hover {
+						background: #b2b2b2;
+					}
+
 /* Icons */
 
 	.icon {
