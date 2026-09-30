@@ -72,6 +72,16 @@ input, select, textarea {
 	appearance: none;
 }
 
+/* Adding my own css */
+.centered {
+	text-align: center;
+}
+
+	.centered img {
+		margin: 0 auto;
+		width: auto;
+	}
+
 /* Basic */
 
 	html {
